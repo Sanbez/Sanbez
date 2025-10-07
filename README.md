@@ -17,8 +17,8 @@
 
  **<h3 align="left">beginner developer💻</h3>**
 
- **<h3 align="right">Skills</h3>**
+ **<h3 align="left">Skills</h3>**
 
-<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="28" alt="NestJs"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" height="28" alt="Next.js"/></td></table>
+<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" height="28" alt="Next.js"/></td></table>
 
 
